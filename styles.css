@@ -1,0 +1,24 @@
+p {
+    font-size: 11px;
+    text-align: justify;
+}
+
+.timg {
+    width: 400px;
+    height: 300px;
+}
+
+.fab {
+    width: 20px;
+    height: 20px;
+    font-size: 40px;
+}
+
+.nav-pills .nav-link.active {
+    background-color: rgb(204, 201, 201) !important;
+    color:white !important;
+}
+
+.nav-pills .nav-link {
+    color:rgb(204, 201, 201) !important;
+}
