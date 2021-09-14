@@ -3,10 +3,17 @@ p {
     text-align: justify;
 }
 
+.pagimg {
+    width: 400px;
+    height: 300px;
+}
+
 .timg {
     width: 400px;
     height: 300px;
 }
+
+
 
 .fab {
     width: 20px;
@@ -21,4 +28,17 @@ p {
 
 .nav-pills .nav-link {
     color:rgb(204, 201, 201) !important;
+    
+}
+
+button {
+    margin-top: 125px;
+}
+
+.tab-content {
+    width:auto;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    padding-left: 15px;
 }
