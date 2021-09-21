@@ -41,4 +41,6 @@ button {
     display: flex;
     justify-content: center;
     padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-around;
 }
